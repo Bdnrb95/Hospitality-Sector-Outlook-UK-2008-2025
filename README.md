@@ -226,6 +226,8 @@ More in-depth information on all SQL queries and calculations is available withi
 
 Exploratory analysis was performed in SQL to identify trends, relationships, and anomalies before visualisation.
 
+![Power BI Dashboard](Power_BI.png)
+
 ### Areas Analysed
 
 - Revenue growth trends
@@ -246,6 +248,8 @@ The EDA stage helped:
 ## 8,Power BI Dashboard Development
 
 A Power BI dashboard was created to provide a broad analytical view of the hospitality sector.
+
+[![Tableau Dashboard](Hospitality%20Project%20Tableau.png)](https://public.tableau.com/app/profile/bence.bodnar/viz/UkHospitalityForecast/HospitalityProject)
 
 ### Dashboard Objectives
 
