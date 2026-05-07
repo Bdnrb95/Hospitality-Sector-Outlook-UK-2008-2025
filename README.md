@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an end-to-end hospitality sector analysis project using Excel, SQL, Power BI, and Tableau to evaluate economic pressures and forecast future revenue trends
+This project is an end-to-end hospitality sector analysis project using Excel, SQL, Power BI, and Tableau to evaluate economic pressures and forecast future revenue trends.
 
 The workflow covers:
 - Data cleaning (Excel)
